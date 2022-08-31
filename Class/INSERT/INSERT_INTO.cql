@@ -1,0 +1,1 @@
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (5,'C',208,'Literatura hispano-americana','Paloma Sánchez');

@@ -1,0 +1,14 @@
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (201,101,'Filología románica',7,'Sara Martínez','Maria Mestre');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (201,102,'Griego moderno',7,'Daniel Pérez','Maria Mestre');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (202,106,'Teorías literarias',3,'Juan García','Rodrigo Calvo');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (203,103,'Literatura moderna',10,'Amalia Sierra','Oriol Menezes');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (203,105,'Fonética y morfología',5,'Miguel Hernández','Oriol Menezes');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (203,108,'Español moderno',10,'Isabel Sanz','Oriol Menezes');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (204,101,'Filología románica',7,'Sara Martínez','Carlo Berruzo');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (205,103,'Literatura moderna',5,'Paloma Sánchez','Sofia Canyadell');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (205,104,'Literatura hispano-americana',5,'Paloma Sánchez','Sofia Canyadell');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (205,108,'Español moderno',10,'Isabel Sanz','Sofia Canyadell');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (206,106,'Teorías literarias',3,'Juan García','Marina Perez');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (206,107,'Lingüística general',3,'Samuel López','Marina Perez');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (207,107,'Lingüística general',3,'Samuel López','Arianna Ruiz');
+insert into practica.ejercicio_a (idE_estudiante, idC_curso, titulo_curso,  creditos_curso, profesor_curso, nombre_estudiante ) values (208,104,'Literatura hispano-americana',5,'Paloma Sánchez','Naiara Zapico');

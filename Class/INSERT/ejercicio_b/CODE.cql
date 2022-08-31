@@ -1,0 +1,14 @@
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (7,'B',201,'Filología románica','Sara Martínez');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (7,'B',201,'Griego moderno','Daniel Pérez');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (3,'C',202,'Teorías literarias','Juan García');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (10,'A',203,'Literatura moderna','Amalia Sierra');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (5,'B',203,'Fonética y morfología','Miguel Hernández');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (10,'A',203,'Español moderno','Isabel Sanz');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (7,'B',204,'Filología románica','Sara Martínez');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (10,'C',205,'Literatura moderna','Paloma Sánchez');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (5,'B',205,'Literatura hispano-americana','Paloma Sánchez');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (10,'A',205,'Español moderno','Isabel Sanz');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (3,'B',206,'Teorías literarias','Juan García');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (3,'B',206,'Lingüística general','Samuel López');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (3,'A',207,'Lingüística general','Samuel López');
+insert into practica.ejercicio_b (creditos_curso, nota_exam, idE_estudiante, titulo_curso, profesor_curso) values (5,'C',208,'Literatura hispano-americana','Paloma Sánchez');
